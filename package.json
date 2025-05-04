@@ -20,9 +20,9 @@
   },
   "dependencies": {
     "@akveo/ng2-completer": "^9.0.1",
-    "@angular-devkit/core": "^13.3.11",
+    "@angular-devkit/core": "^14.3.0",
     "@angular/animations": "^14.3.0",
-    "@angular/cdk": "^12.2.13",
+    "@angular/cdk": "^14.3.",
     "@angular/common": "^14.3.0",
     "@angular/compiler": "^14.3.0",
     "@angular/core": "^14.3.0",
