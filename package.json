@@ -33,7 +33,7 @@
     "@angular/router": "^14.3.0",
     "@asymmetrik/ngx-leaflet": "3.0.1",
     "@fullcalendar/core": "^5.10.0",
-    "@nebular/auth": "5.0.0",
+    "@nebular/auth": "^9.0.0",
     "@nebular/date-fns": "5.0.0",
     "@nebular/eva-icons": "5.0.0",
     "@nebular/moment": "^6.2.0",
